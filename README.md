@@ -33,16 +33,16 @@ Rock-vs-Mine-Prediction/
 └── README.md 
 ```
 🚀 How to Run
-Open the notebook in Google Colab.
-Upload the dataset (sonar_data.csv).
-Run all cells sequentially.
-Use the prediction section to classify new sonar readings.
+-Open the notebook in Google Colab.
+-Upload the dataset (sonar_data.csv).
+-Run all cells sequentially.
+-Use the prediction section to classify new sonar readings.
 
 🔮 Future Improvements
-Experiment with Random Forest and SVM
-Perform hyperparameter tuning
-Deploy using Streamlit
+-Experiment with Random Forest and SVM
+-Perform hyperparameter tuning
+-Deploy using Streamlit
 
 👨‍💻 Author
-Saru
-B.Tech CSE, IIT ISM Dhanbad
+-Saru
+-B.Tech CSE, IIT ISM Dhanbad
