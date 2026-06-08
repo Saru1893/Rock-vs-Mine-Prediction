@@ -32,4 +32,3 @@ Rock-vs-Mine-Prediction/
 ├── sonar_data.csv
 └── README.md 
 ```
--B.Tech CSE, IIT ISM Dhanbad
