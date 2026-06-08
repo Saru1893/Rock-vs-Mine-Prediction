@@ -32,3 +32,13 @@ Rock-vs-Mine-Prediction/
 ├── sonar_data.csv
 └── README.md 
 ```
+## 🚀 How to Run
+
+1. Open the notebook in Google Colab.
+2. Upload `sonar_data.csv`.
+3. Run all cells.
+4. Use the prediction section to classify new sonar readings.
+
+## 👨‍💻 Author
+**Saru**  
+B.Tech CSE, IIT ISM Dhanbad  
