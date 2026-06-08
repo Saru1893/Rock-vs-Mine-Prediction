@@ -30,8 +30,8 @@ Rock-vs-Mine-Prediction/
 │
 ├── Rock_vs_Mine_Prediction.ipynb
 ├── sonar_data.csv
-└── README.md
-
+└── README.md 
+```
 🚀 How to Run
 Open the notebook in Google Colab.
 Upload the dataset (sonar_data.csv).
