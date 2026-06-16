@@ -40,5 +40,5 @@ Rock-vs-Mine-Prediction/
 4. Use the prediction section to classify new sonar readings.
 
 ## 👨‍💻 Author
-**Saru**  
+**Sarath Pandranki**  
 B.Tech CSE, IIT ISM Dhanbad  
